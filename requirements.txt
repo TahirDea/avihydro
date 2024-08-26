@@ -1,0 +1,9 @@
+aiohttp
+git+https://github.com/hydrogram/hydrogram.git@fix/defer-loop
+python-dotenv
+tgcrypto
+motor
+aiofiles
+dnspython
+requests
+jinja2
